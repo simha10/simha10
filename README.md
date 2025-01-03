@@ -30,8 +30,8 @@
 ###
 
 <p align="left">I'm Mandapudi Simhachalam, a final-year Computer Science Engineering (CSE) student from India.<br><br>
-- 🔭 I’m working on my final-year project combining web technologies and AI/ML.<br>
-- 📚 I'm currently learning advanced concepts in Machine Learning and web development.<br>
+- 🔭 I’m working on my final-year project combining web technologies.<br>
+- 📚 I'm currently learning advanced concepts web development.<br>
 - ⚡ In my free time, I explore new tech trends and work on open-source projects.</p>
 
 ###
@@ -48,8 +48,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo"  />
   <img width="12" />
