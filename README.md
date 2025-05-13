@@ -27,7 +27,7 @@
 ###
 
 <p align="left">I'm Mandapudi Simhachalam, a Computer Science Engineering (CSE) Fresher from India.<br><br>
-- 🔭 Currently working on a MERN project combining web technologies with Generative AI. with Freelancing<br>
+- 🔭 Currently working on a Freelance MERN project combining web technologies with Generative AI<br>
 - 📚 I'm currently learning advanced concepts web development.<br>
 - ⚡ In my free time, I explore new tech trends and work on open-source projects.</p>
 
