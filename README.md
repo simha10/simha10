@@ -3,11 +3,12 @@
 </div>
 
 ###
-
+<h2>⚡️ Where to find me</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/simhachalam-mandapudi-93b75b284/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
+  <a target="_blank" href="https://www.instagram.com/this_is_simha__3__/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 </div>
 
 ###
@@ -56,12 +57,6 @@
 </div>
 
 ###
-<h2>⚡️ Where to find me</h2>
-<div align="center">
-
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/simhachalam-mandapudi-93b75b284/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.instagram.com/https://www.instagram.com/this_is_simha__3__/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-</div>
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Simha10&show_icons=true&locale=en" alt="Simha10" /></p>
 </div>
