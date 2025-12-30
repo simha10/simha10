@@ -54,15 +54,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo"  />
 </div>
 
-###
-<div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Simha10&show_icons=true&locale=en" alt="Simha10" /></p>
-</div>
-<div align="center">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Simha10&show_icons=true&locale=en&layout=compact" alt="Simha10" /></p>
-</div>
-
-
 </div>
 
 ###
