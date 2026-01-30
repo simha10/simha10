@@ -1,5 +1,7 @@
 <div align="center">
   <img height="160" src="https://th.bing.com/th/id/OIP.XbhIGO49XCjhHxsWmFBtrAHaEK?w=260&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="Web Developer" />
+</div>
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MandapudiSimhachalam.MandapudiSimhachalam" />
 </div>
 
