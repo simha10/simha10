@@ -1,5 +1,6 @@
 <div align="center">
   <img height="160" src="https://th.bing.com/th/id/OIP.XbhIGO49XCjhHxsWmFBtrAHaEK?w=260&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="Web Developer" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MandapudiSimhachalam.MandapudiSimhachalam" />
 </div>
 
 <h1 align="center">Hi, I'm Simhachalam 👋</h1>
@@ -81,15 +82,6 @@ I'm **Mandapudi Simhachalam**, a passionate **Software Developer from India**, f
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-</div>
-
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MandapudiSimhachalam.MandapudiSimhachalam" />
 </div>
 
 ---
