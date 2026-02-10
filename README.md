@@ -12,12 +12,11 @@
 
 ## 🚀 About Me
 
-I'm **Mandapudi Simhachalam**, a passionate **Software Developer from India**, focused on building real-world, scalable web applications.
+I'm **Mandapudi Simhachalam**, a **Software Developer from India**, focused on building real-world, scalable web applications.
 
 - 🔭 Currently building **MERN-based applications integrated with Generative AI**
 - 🌱 Strengthening **backend architecture, APIs, and system design**
 - 🧠 Exploring **AI-powered automation & data-driven applications**
-- 🎯 Goal: Become a **job-ready full-stack developer** with strong fundamentals
 - ⚡ I enjoy converting ideas into working products, not just code
 
 ---
