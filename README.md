@@ -40,8 +40,7 @@ I'm **Mandapudi Simhachalam**, a **Software Developer from India**, focused on b
 - ✅ Survey & Data Collection Systems
 - ✅ GenAI-based Applications (T5, Transformers, Prompt-based systems)
 - 🔄 Improving DSA & backend performance
-- 🔜 Preparing for Software Developer roles
-
+- 
 ---
 
 ## 🛠 Tech Stack & Tools
@@ -93,7 +92,6 @@ I'm **Mandapudi Simhachalam**, a **Software Developer from India**, focused on b
 ✔ Backend APIs & System Design  
 ✔ GenAI + Web Integration  
 ✔ Real-world scalable projects  
-✔ Ready for internships & entry-level roles  
 
 ---
 
