@@ -86,14 +86,6 @@ I'm **Mandapudi Simhachalam**, a **Software Developer from India**, focused on b
 
 ---
 
-## 📌 Career Focus
-
-✔ Full Stack Development  
-✔ Backend APIs & System Design  
-✔ GenAI + Web Integration  
-✔ Real-world scalable projects  
-
----
 
 ### 💬 Final Note
 > I believe in **building first, perfecting later**.  
